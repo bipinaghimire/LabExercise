@@ -1,5 +1,5 @@
 '''
-assign values to num1, num2, and num3. Then findd the sum of these numbers
+assign values to num1 , num2 , and num3. Then findd the sum of these numbers
 '''
 num1 = int(input('enter the first value:'))
 num2 = int(input('enter the second value:'))
